@@ -19,7 +19,7 @@
     "inquirer": "^7.0.0",
     "lodash": "^4.17.15",
     "minimist": "^1.2.0",
-    "simple-git": "^1.128.0",
+    "simple-git": "^3.3.0",
     "touch": "^3.1.0"
   }
 }
